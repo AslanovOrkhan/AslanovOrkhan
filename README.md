@@ -53,22 +53,22 @@ A travel and tour booking platform with a modern frontend and backend.
 **Tech:** TypeScript, JavaScript, React, Node.js, Express.js  
 [GitHub Repo](https://github.com/AslanovOrkhan/Travel-Tour)
 
-### 🏨 Hotel Booking Platform  
-Room filtering, date picker, booking system.
-
+### ☕ CoffeeShop
+Full-stack coffee shop management and ordering system. Includes both frontend and backend, with a live demo.
+**Tech:** CSS, HTML, JavaScript, C#  
+[GitHub Repo](https://github.com/AslanovOrkhan/Final-Project)
+ 
 ### 🛒 Online Food Delivery Website  
 Basket, checkout, categories, product listing.
 
 ---
-
 <!-- CURRENT WORK -->
 ## 🧠 Currently Working On
-- 🔐 JSON Server Authentication  
-- 🎞 1-month YouTube Shorts content plan  
-- ⚡ React + TypeScript + Redux Toolkit ToDo App  
-- 🎨 UI improvements with Tailwind + Framer Motion  
-
----
+- ☕ CoffeeShop: Full-stack coffee shop management system (React, C#, SQL)
+- 🌍 Travel Tour: Modern travel & tour booking platform (React, Node.js, TypeScript)
+- 📹 Creating YouTube content about frontend and full-stack development
+- 🚀 Improving UI/UX skills with Tailwind CSS & Framer Motion
+- 👨‍💻 Leading a frontend team on real-world projects
 
 <!-- STATS -->
 ## 📊 GitHub Stats
