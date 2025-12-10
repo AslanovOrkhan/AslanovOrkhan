@@ -1,12 +1,6 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Aslanov Orkhan</h1>
-<h3 align="center">A Passionate Frontend Engineer from Baku</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AslanovOrkhan/AslanovOrkhan/main/assets/dev.gif" width="350" alt="Developer Animation"/>
-</p>
-
----
+<h1 align="start">Hi 👋 My name is Aslanov Orkhan</h1>
+<h3 align="start">Frontend Developer</h3>
 
 <!-- ABOUT -->
 ## 🌟 About Me
