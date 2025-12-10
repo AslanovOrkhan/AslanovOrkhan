@@ -42,11 +42,16 @@
 <!-- PROJECTS -->
 ## 🚀 Highlighted Projects
 
-### 🎬 YouTube Clone (JavaScript)
-Modern UI, search, video player, responsive design.
 
-### 🎟 Movie / Event Ticket Website
-Favorites, basket, seat reservation, filtering.
+### ⚡ MERN Stack Rampage
+Full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js).
+**Tech:** TypeScript, JavaScript, React, Node.js, Express.js, MongoDB  
+[GitHub Repo](https://github.com/AslanovOrkhan/mern-stack-rampage)
+
+### 🌍 Travel Tour
+A travel and tour booking platform with a modern frontend and backend.  
+**Tech:** TypeScript, JavaScript, React, Node.js, Express.js  
+[GitHub Repo](https://github.com/AslanovOrkhan/Travel-Tour)
 
 ### 🏨 Hotel Booking Platform  
 Room filtering, date picker, booking system.
