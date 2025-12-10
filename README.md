@@ -7,15 +7,13 @@
 
 - 🧑‍💻 Frontend Developer with **2+ years of experience**
 - 🎓 Code Academy graduate  
-- 📚 Currently learning **Next.js**, **TypeScript**, **Advanced React Patterns**
+- 📚 Currently building projects with **Next.js**, **TypeScript**, **Advanced React Patterns**, **Node.js**, **Express.js**
 - 🎥 I prepare **YouTube videos** about frontend projects  
-- 🔧 Team Lead of a **5-person frontend development team**  
-- 🎓 Final semester university student working on my **diploma project**
 - 🛠 I build end-to-end projects using:
   - React, Next.js, TypeScript  
   - Vite, Redux Toolkit, Tailwind, SCSS  
   - Node.js + JSON Server  
-- 📈 My YouTube channel has **global audience + 500+ views**
+- 📈 My YouTube channel has **global audience + 500000+ views**
 
 ---
 
