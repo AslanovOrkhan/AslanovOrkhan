@@ -21,13 +21,12 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
+  <a href="https://github.com/AslanovOrkhan"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="linkedin.com/in/orkhanaslanov"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.youtube.com/channel/UCSHOWBwI41zSkYLuEIyXkvg"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
 </p>
 
-📩 **Email:** orkhanaslanov.dev@gmail.com
+📩 **Email:** orkhann.aslanovv@gmail.com
 
 ---
 
