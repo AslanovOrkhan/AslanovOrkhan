@@ -74,6 +74,12 @@ Basket, checkout, categories, product listing.
 ## 📊 GitHub Stats
 ---
 
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AslanovOrkhan&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AslanovOrkhan&theme=tokyonight" />
+</p>
+
+
 <!-- ANIMATED LINE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AslanovOrkhan/AslanovOrkhan/main/assets/line.gif" width="100%">
