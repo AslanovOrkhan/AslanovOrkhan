@@ -26,7 +26,7 @@
   <a href="https://www.youtube.com/channel/UCSHOWBwI41zSkYLuEIyXkvg"><img src="https://skillicons.dev/icons?i=youtube" width="40"/></a>
 </p>
 
-📩 **Email:** orkhann.aslanovv@gmail.com
+📩 **Email:** aslan.orxan.1997@gmail.com
 
 ---
 
